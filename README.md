@@ -1,2 +1,4 @@
 # VB.Net : Export a Panel as an Image
-vb.net-picturize-export-panel-to-image
+
+
+* Do with Visual Studio 2013 & Net Framework 4.5
